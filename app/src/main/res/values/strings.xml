@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Meme Bucket</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_send">Adicionar meme</string>
+    <string name="menu_gallery">Galeria</string>
+    <string name="menu_navigation">Meme Browser</string>
+
+    <string name="home_btn">Adicionar meme</string>
+
+    <string name="send_name_edit">Digite o nome…</string>
+    <string name="send_name_meme">Selecione o arquivo…</string>
+    <string name="send_description">Descrição do meme</string>
+    <string name="send_btn_send">Selecionar</string>
+    <string name="send_btn_save">Salvar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
